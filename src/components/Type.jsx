@@ -1,4 +1,8 @@
 // Destructure pokemon types props here :)
 export const Type = () => {
-  return <div>Type</div>;
+  return <div>
+    Type
+    <input type="button"></input>
+    </div>;
+
 };

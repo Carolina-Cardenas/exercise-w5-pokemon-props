@@ -1,4 +1,6 @@
 // Destructure pokemon props here :)
+import { Cubus } from "./Cubus";
 export const Pokemon = () => {
-  return <div>Pokemon</div>;
+  return <div>
+   <div> Pokemon hijo </div> </div>;
 };
